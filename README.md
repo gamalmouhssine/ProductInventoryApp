@@ -1,6 +1,6 @@
 # Product Inventory Management App (WinForms, C#)
 
-A simple yet structured desktop application built with **WinForms** and **C#** using **ADO.NET** and **SQL Server**. The app allows users to manage an inventory of products, demonstrating clean code principles, SOLID architecture, and extensible design patterns.
+A simple, structured desktop application built with **WinForms** and **C#** using **ADO.NET** and **SQL Server**. The app allows users to manage an inventory of products, demonstrating clean code principles, SOLID architecture, and extensible design patterns.
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ ProductInventoryApp/
 ├── Models/            → Product entity
 ├── Data/              → ADO.NET DbManager & ProductRepository
 ├── Services/          → Business logic layer
-├── Forms/             → WinForms UI (MainForm)
+├── Forms/             → WinForms UI 
 ├── Program.cs         → Entry point
 └── App.config         → DB connection string
 ```
