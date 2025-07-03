@@ -23,7 +23,7 @@ ProductInventoryApp/
 ├── Forms/             → WinForms UI (MainForm)
 ├── Program.cs         → Entry point
 └── App.config         → DB connection string
-
+```
 ---
 
 ## Setup Instructions
@@ -33,7 +33,7 @@ ProductInventoryApp/
 ```bash
 git clone https://github.com/gamalmouhssine/ProductInventoryApp.git
 cd ProductInventoryApp
-
+```
 ### Configure the Connection String
 
 ```bash
@@ -42,3 +42,4 @@ cd ProductInventoryApp
 		 connectionString="Data Source=DESKTOP;Initial Catalog=InventoryDB;User ID=sa;Password=******;TrustServerCertificate=True;"
 		 providerName="System.Data.SqlClient" />
 </connectionStrings>
+```
